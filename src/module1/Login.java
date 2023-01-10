@@ -5,9 +5,9 @@ public class Login {
 	public static void main(String[] args) 
 	{
 		
-     System.out.println("Hello world");
+     System.out.println("Well Come To Velocity University");
      
-     System.out.println("hello all");
+     
 	}
 
 }
